@@ -51,7 +51,7 @@
       <img src="https://img.shields.io/badge/NGINX-0D0D0D?style=flat-square&logo=nginx&logoColor=7F52FF" alt="Nginx" />
       <img src="https://img.shields.io/badge/PM2-0D0D0D?style=flat-square&logo=pm2&logoColor=7F52FF" alt="PM2" />
       <img src="https://img.shields.io/badge/Kubernetes-0D0D0D?style=flat-square&logo=kubernetes&logoColor=7F52FF" alt="Kubernetes" />
-      <img src="https://img.shields.io/badge/Grafana-0D0D0D?logo=grafana&logoColor=7F52FF" alt="Grafana" />
+      <img src="https://img.shields.io/badge/Grafana-0D0D0D?style=flat-square&logo=grafana&logoColor=7F52FF" alt="Grafana" />
     </td>
   </tr>
   <tr>
