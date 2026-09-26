@@ -47,7 +47,6 @@
       <br/><br/>
       <img src="https://img.shields.io/badge/UBUNTU_SERVER-0D0D0D?style=flat-square&logo=ubuntu&logoColor=7F52FF" alt="Ubuntu" />
       <img src="https://img.shields.io/badge/DOCKER-0D0D0D?style=flat-square&logo=docker&logoColor=7F52FF" alt="Docker" />
-      <img src="https://img.shields.io/badge/LINUX-0D0D0D?style=flat-square&logo=linux&logoColor=7F52FF" alt="Linux" />
       <img src="https://img.shields.io/badge/NGINX-0D0D0D?style=flat-square&logo=nginx&logoColor=7F52FF" alt="Nginx" />
       <img src="https://img.shields.io/badge/PM2-0D0D0D?style=flat-square&logo=pm2&logoColor=7F52FF" alt="PM2" />
       <img src="https://img.shields.io/badge/Kubernetes-0D0D0D?style=flat-square&logo=kubernetes&logoColor=7F52FF" alt="Kubernetes" />
